@@ -1,0 +1,57 @@
+.avatar {
+    width: 2.94rem;
+}
+.article-ih {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.article-in-home a {
+    text-decoration: none;
+    font-weight: 600;
+}
+img {
+    max-width: 100%;
+}
+.plaina {
+    text-decoration: none;
+    font-weight: 300;
+}
+.moblogo, .menu-toggle {
+    width: 2.4rem;
+    height:2.4rem;
+}
+.site-name {
+    font-size: 1.23rem;
+    font-weight: 400;
+    text-align: center;
+}
+.header-divider {
+    height: 3.3rem;
+    display: inline-block;
+}
+.content p {
+    padding: 16px;
+}
+.content > figure{
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+.content > a {
+    display: flex;
+    word-wrap: break-word;
+    max-width: 100%;
+}
+pre {
+    max-width: 96%;
+    margin: 2%;
+    padding: 4%;
+    border: solid 1px #333;
+    border-radius: 6px;
+    overflow-x: scroll;
+}
+code {
+    max-width: 96%;
+    overflow-x: scroll;
+}
